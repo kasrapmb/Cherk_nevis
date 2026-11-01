@@ -1,0 +1,13 @@
+{
+  "slides_per_language": 20,
+  "languages": [
+    "English",
+    "Persian"
+  ],
+  "package_checks": "passed: XML, internal relationships, editable shapes and text, Morph/fade alternatives, POTX content type",
+  "browser_checks": "passed: all 40 scenes, text bounds, internal accordion navigation",
+  "native_powerpoint_playback": "not performed; Microsoft PowerPoint unavailable",
+  "motion_preview": "browser simulation, not native PowerPoint rendering",
+  "reference": "reference/analysis.md",
+  "skill": "https://github.com/kasrapmb/REA_skills_Codex"
+}

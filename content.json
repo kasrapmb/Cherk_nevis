@@ -1,0 +1,19 @@
+{
+  "brand": "Your Brand",
+  "brand_tagline": "Ideas in motion",
+  "presenter": "Your Name",
+  "role": "Presenter · 2026",
+  "title": "Present with Clarity.\nDesign with Impact.",
+  "subtitle": "Your presentation starts here.",
+  "outline": "Outline",
+  "logo_letters": "YB",
+  "sections": [
+    {"title": "Introduction", "description": "Set the context. Introduce your idea, your audience and the outcome you want to create.", "headline": "Start with a clear idea.", "body": "Replace this text with your introduction. Define the purpose of your presentation in a few concise sentences."},
+    {"title": "Problem", "description": "Explain the challenge. Show why it matters and what needs to change.", "headline": "Make the challenge visible.", "body": "Describe the main problem, support it with evidence, and explain its effect on your audience."},
+    {"title": "Solution", "description": "Present your approach. Connect the proposed solution to a practical, measurable result.", "headline": "Turn insight into action.", "body": "Outline your approach, the steps involved, and the benefits your audience can expect."},
+    {"title": "Conclusion", "description": "Bring the story together. Summarize the value and make your next step clear.", "headline": "Leave a lasting impression.", "body": "Summarize your key message and finish with a clear next step or call to action."}
+  ],
+  "colors": {"background": "10152E", "panel": "1B203E", "accent": "79BFFF", "text": "F6F7FF", "muted": "A0AACB", "rule": "414C72"},
+  "font": "Arial",
+  "rtl": false
+}
